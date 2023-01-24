@@ -1,6 +1,6 @@
 # Computer-Graphics-3D-Project
  
-A Game simple game implemented with OpenGL newest version, which simulates going through a 3D tunnel, featuring detailed textures and realistic lighting effects for an immersive experience. :smile:
+A Simple game implemented with OpenGL newest version, which simulates going through a 3D tunnel, featuring detailed textures and realistic lighting effects for an immersive experience. :smile:
 
 Contents:
 - [x] Video with our Demo [(here)](https://youtu.be/YVvNWU4EtRw)
